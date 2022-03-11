@@ -1,4 +1,5 @@
 # 지형 인식을 이용한 자동차 AR 콘텐츠 제작
+![image](https://user-images.githubusercontent.com/90877724/157868123-8b27a0db-c8fc-4555-ad7e-214972e2f8b6.jpg)
 ## 1. 프로젝트 개요
 ### 1.1 개발 인원/기간 및 포지션
 - 1인, 총 3일 소요
